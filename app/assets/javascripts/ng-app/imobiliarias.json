@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nome": "Imobiliaria 1",
+    "cnpj": 123450001
+  },
+  {
+    "id": 2,
+    "nome": "Imobiliaria 2",
+    "cnpj": 123450002
+  },
+  {
+    "id": 3,
+    "nome": "Imobiliaria 3",
+    "cnpj": 123450003
+  },
+  {
+    "id": 4,
+    "nome": "Imobiliaria 4",
+    "cnpj": 123450004
+  }
+]
